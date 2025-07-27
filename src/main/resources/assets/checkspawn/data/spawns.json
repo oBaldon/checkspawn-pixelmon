@@ -1,0 +1,40 @@
+{
+  "abomasnow": [
+    {
+      "minLevel": "40",
+      "maxLevel": "45",
+      "Times": "DAWN, MORNING",
+      "LocationTypes": "Land, Sweet Scent",
+      "Biome": "minecraft:snowy_taiga, biomesoplenty:auroral_garden, biomesoplenty:snowblossom_grove, biomesoplenty:snowy_coniferous_forest, biomesoplenty:snowy_fir_clearing, biomesoplenty:snowy_maple_forest, biomeswevegone:eroded_borealis, biomeswevegone:frosted_coniferous_forest, biomeswevegone:frosted_taiga, terralith:alpha_islands_winter, terralith:alpine_grove, terralith:siberian_grove, terralith:skylands_winter, terralith:snowy_cherry_grove, terralith:snowy_maple_forest, terralith:snowy_shield, terralith:wintry_forest, minecraft:frozen_peaks, terralith:emerald_peaks, terralith:glacial_chasm",
+      "AntiBiome": "NONE",
+      "Rarity": 8.0
+    },
+    {
+      "minLevel": "ANY",
+      "maxLevel": "ANY",
+      "Times": "ANY",
+      "LocationTypes": "Land",
+      "Biome": "minecraft:snowy_taiga, biomesoplenty:auroral_garden, biomesoplenty:snowblossom_grove, biomesoplenty:snowy_coniferous_forest, biomesoplenty:snowy_fir_clearing, biomesoplenty:snowy_maple_forest, biomeswevegone:eroded_borealis, biomeswevegone:frosted_coniferous_forest, biomeswevegone:frosted_taiga, terralith:alpha_islands_winter, terralith:alpine_grove, terralith:siberian_grove, terralith:skylands_winter, terralith:snowy_cherry_grove, terralith:snowy_maple_forest, terralith:snowy_shield, terralith:wintry_forest, minecraft:frozen_peaks, terralith:emerald_peaks, terralith:glacial_chasm",
+      "AntiBiome": "NONE",
+      "Rarity": 0.3
+    },
+    {
+      "minLevel": "35",
+      "maxLevel": "40",
+      "Times": "ANY",
+      "LocationTypes": "Sweet Scent",
+      "Biome": "minecraft:snowy_taiga, biomesoplenty:auroral_garden, biomesoplenty:snowblossom_grove, biomesoplenty:snowy_coniferous_forest, biomesoplenty:snowy_fir_clearing, biomesoplenty:snowy_maple_forest, biomeswevegone:eroded_borealis, biomeswevegone:frosted_coniferous_forest, biomeswevegone:frosted_taiga, terralith:alpha_islands_winter, terralith:alpine_grove, terralith:siberian_grove, terralith:skylands_winter, terralith:snowy_cherry_grove, terralith:snowy_maple_forest, terralith:snowy_shield, terralith:wintry_forest, minecraft:frozen_peaks, terralith:emerald_peaks, terralith:glacial_chasm",
+      "AntiBiome": "NONE",
+      "Rarity": 5.0
+    },
+    {
+      "minLevel": "40",
+      "maxLevel": "45",
+      "Times": "DAWN, MORNING",
+      "LocationTypes": "Grass",
+      "Biome": "minecraft:snowy_taiga, biomesoplenty:auroral_garden, biomesoplenty:snowblossom_grove, biomesoplenty:snowy_coniferous_forest, biomesoplenty:snowy_fir_clearing, biomesoplenty:snowy_maple_forest, biomeswevegone:eroded_borealis, biomeswevegone:frosted_coniferous_forest, biomeswevegone:frosted_taiga, terralith:alpha_islands_winter, terralith:alpine_grove, terralith:siberian_grove, terralith:skylands_winter, terralith:snowy_cherry_grove, terralith:snowy_maple_forest, terralith:snowy_shield, terralith:wintry_forest, minecraft:frozen_peaks, terralith:emerald_peaks, terralith:glacial_chasm",
+      "AntiBiome": "NONE",
+      "Rarity": 8.0
+    }
+  ]
+}

@@ -172,4 +172,5 @@ cython_debug/
 
 
 # Database too heavy to be
-data/
+data/!src/main/resources/assets/checkspawn/data/
+!src/main/resources/assets/checkspawn/data/spawns.json
