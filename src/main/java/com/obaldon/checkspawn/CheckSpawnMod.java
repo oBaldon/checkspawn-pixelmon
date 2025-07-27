@@ -6,9 +6,10 @@ import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
 import com.mojang.logging.LogUtils;
 import net.neoforged.bus.api.IEventBus;
+import net.neoforged.bus.api.SubscribeEvent;
 import net.neoforged.fml.common.Mod;
 import net.neoforged.neoforge.event.RegisterCommandsEvent;
-import net.neoforged.neoforge.eventbus.api.SubscribeEvent;
+import com.obaldon.checkspawn.command.CheckSpawnCommand;
 import org.slf4j.Logger;
 
 import java.io.InputStream;
