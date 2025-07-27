@@ -29,7 +29,8 @@ public class CheckSpawnMod {
     }
 
     private void loadSpawns() {
-        InputStream stream = getClass().getResourceAsStream("/assets/" + MODID + "/data/spawns.json");
+        // spawns.json is packaged under data/checkspawn/spawns.json
+        InputStream stream = getClass().getResourceAsStream("/data/" + MODID + "/spawns.json");
         if (stream == null) {
             LOGGER.warn("spawns.json not found");
             return;
